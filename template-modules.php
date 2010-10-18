@@ -5,7 +5,7 @@
  Description: A plugin based implementation of Daryl Koopersmith's <a href="http://core.trac.wordpress.org/ticket/12877">Template Module</a> concept.
  Author: Will Norris
  Author URI: http://willnorris.com/
- Version: 1.0-trunk
+ Version: 2.0-trunk
  License: Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
  */
 
